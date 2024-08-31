@@ -3,7 +3,6 @@ body {
   background-color: #c4a484;
 }
 .container {
-  /* text-align: center; */
   display: flex;
   justify-content: center;
   align-items: center;
